@@ -21,7 +21,7 @@
   ```
 * Start
   ```sh
-  npm start
+  npm run dev
   ```
 
 ## Built With
